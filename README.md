@@ -7,7 +7,7 @@ We are sharing this model to help research using Dutch data sources, so feel fre
 ## Installation
 The model can be downloaded using the provided utils script
 ```sh
-$ git clone https://github.com/severun/dutch-word2vec-model.git
+$ git clone https://github.com/coosto/dutch-word-embeddings.git
 $ cd dutch-word2vec-model
 $ python3 utils.py download
 ```
