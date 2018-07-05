@@ -1,0 +1,191 @@
+: General
+man koning vrouw
+vvd mark_rutte pvda
+vvd mark_rutte d66
+eindhoven psv rotterdam
+
+: Plural
+auto autos fiets
+aap apen vis
+dollar dollars euro
+maand maanden jaar
+
+: Verbs (https://www.beterspellen.nl/website/index.php?pag=113)
+bedenken bedacht blazen
+bevriezen bevroor duiken
+fluiten floot doen
+#aanbidden aanbad
+#bedenken bedacht
+#bederven bedierf
+#bedriegen bedroog
+#beginnen begon
+#begraven begroef
+#besluiten besloot
+#bestrijden bestreed
+#bevinden bevond
+#bevriezen bevroor
+#bewijzen bewees
+#bezoeken bezocht
+#bidden bad
+#bieden bood
+#bijten beet
+#binden bond
+#blazen blies
+#blijven bleef
+#breken brak
+#brengen bracht
+#buigen boog
+#denken dacht
+#doen deed
+#dragen droeg
+#drinken dronk
+#druipen droop
+#duiken dook
+#eten at
+#fluiten floot
+#gaan ging
+#gebieden gebood
+#gelden gold
+#genezen genas
+#genieten genoot
+#geven gaf
+#gieten goot
+#glijden gleed
+#glimmen glom
+#graven groef
+#hangen hing
+#hebben had
+#heffen hief
+#helpen hielp
+#houden hield
+#houwen hieuw
+#kiezen koos
+#kijken keek
+#klimmen klom
+#kluiven kloof
+#knijpen kneep
+#komen kwam
+#kopen kocht
+#krijgen kreeg
+#krimpen kromp
+#kruipen kroop
+#kunnen kon
+#kwijten kweet
+#lachen lachte
+#laten liet
+#lezen las
+#liegen loog
+#liggen lag
+#lijden leed
+#lijken leek
+#lopen liep
+#malen maalde
+#meten mat
+#moeten moest
+#neigen neigde
+#nemen nam
+#ontbijten ontbeet
+#rieken rook
+#rijden reed
+#rijten reet
+#rijzen rees
+#roepen riep
+#ruiken rook
+#scheiden scheidde
+#schelden schold
+#schenden schond
+#schenken schonk
+#schieten schoot
+#schrijven schreef
+#schrikken schrok
+#schuiven schoof
+#slaan sloeg
+#slapen sliep
+#slijpen sleep
+#slijten sleet
+#slinken slonk
+#sluiten sloot
+#smelten smolt
+#snijden sneed
+#snuiten snoot
+#snuiven snoof
+#spijten speet
+#splijten spleet
+#spreken sprak
+#springen sprong
+#spuiten spoot
+#staan stond
+#sterven stierf
+#stijgen
+#stinken stonk
+#strijden streed
+#strijken streek
+#stuiven stoof
+#tijgen toog
+#treden trad
+#treffen trof
+#trekken trok
+#vallen viel
+#vangen ving
+#vechten vocht
+#verbieden verbood
+#verbinden verbond
+#verblijven verbleef
+#verdenken verdacht
+#vergeten vergat
+#verheffen verhief
+#verkiezen verkoos
+#verkopen verkocht
+#verliezen verloor
+#vermijden vermeed
+#verschuiven verschoof
+#verwijzen verwees
+#verzoeken verzocht
+#vinden vond
+#vlechten vlocht
+#vliegen vloog
+#voldoen voldeed
+#vouwen vouwde
+#vragen vroeg
+#vreten vrat
+#vriezen vroor
+#wassen waste
+#wegen woog
+#werpen wierp
+#werven wierf
+#weten wist
+#weven weefde
+#wijken week
+#wijzen wees
+#worden werd
+#wreken wreekte
+#wrijven wreef
+#wringen wrong
+#zenden zond
+#zien zag
+#zijgen zeeg
+#zingen zong
+#zinken zonk
+#zitten zat
+#zoeken zocht
+#zuigen zoog
+#zwerven zwierf
+#zwijgen zweeg
+
+: Comparatives
+groot groter klein
+snel sneller diep
+
+: Opposites
+warm koud duur
+dik dun groot
+altijd nooit links
+
+: Capitals
+denemarken kopenhagen frankrijk
+estland tallinn finland
+
+: Relaties
+broer zus vader
+zoon dochter oom
+neef nicht stiefvader
