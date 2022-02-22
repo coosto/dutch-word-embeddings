@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Coosto - Dutch Word Embeddings"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+date-released: 2018-05-05
+url: "https://github.com/coosto/dutch-word-embeddings"
+authors:
+  - given-names: Alexander
+    family-names: Nieuwenhuijse
+    email: alexander.nieuwenhuijse@coosto.com
+    affiliation: Coosto
